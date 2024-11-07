@@ -1,0 +1,92 @@
+[
+    {
+        "bookId": "book-001",
+        "bookName": "To Kill a Mockingbird",
+        "coverPage": "https://m.media-amazon.com/images/I/81aY1lxk+9L._AC_UF1000,1000_QL80_.jpg",
+        "authorName": "Harper Lee",
+        "rating": 4.8,
+        "briefSummary": "A novel about the serious issues of rape and racial inequality, seen through the eyes of a young girl in the 1930s South.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-002",
+        "bookName": "1984",
+        "coverPage": "https://cdn.kobo.com/book-images/698a1326-f8b7-4664-8f34-75f6633e816e/353/569/90/False/13xLRb-vHz2DfdgvhkjkHg.jpg",
+        "authorName": "George Orwell",
+        "rating": 4.7,
+        "briefSummary": "A dystopian novel set in a totalitarian regime, exploring the consequences of mass surveillance, censorship, and mind control.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-003",
+        "bookName": "The Great Gatsby",
+        "coverPage": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
+        "authorName": "F. Scott Fitzgerald",
+        "rating": 4.6,
+        "briefSummary": "A tragic love story set in the Roaring Twenties, exploring themes of wealth, social class, and the American Dream.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-004",
+        "bookName": "Moby Dick",
+        "coverPage": "https://m.media-amazon.com/images/I/61PBBKyZ1rL._AC_UF1000,1000_QL80_.jpg",
+        "authorName": "Herman Melville",
+        "rating": 4.3,
+        "briefSummary": "The story of Captain Ahab's obsessive quest to kill Moby Dick, a massive white whale, symbolizing humanity's struggle against nature.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-005",
+        "bookName": "Pride and Prejudice",
+        "coverPage": "https://m.media-amazon.com/images/I/81Scutrtj4L._UF894,1000_QL80_.jpg",
+        "authorName": "Jane Austen",
+        "rating": 4.9,
+        "briefSummary": "A romantic novel about the manners and matrimonial machinations among the British middle class in the early 19th century.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-006",
+        "bookName": "The Catcher in the Rye",
+        "coverPage": "https://m.media-amazon.com/images/I/8125BDk3l9L.jpg",
+        "authorName": "J.D. Salinger",
+        "rating": 4.1,
+        "briefSummary": "A young man's journey through life, dealing with alienation, rebellion, and the loss of innocence as he confronts adult society.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-007",
+        "bookName": "War and Peace",
+        "coverPage": "https://m.media-amazon.com/images/I/71wXZB-VtBL.jpg",
+        "authorName": "Leo Tolstoy",
+        "rating": 4.5,
+        "briefSummary": "An epic novel covering the Napoleonic Wars, with intricate character studies and philosophical reflections on the nature of war and peace.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-008",
+        "bookName": "Brave New World",
+        "coverPage": "https://m.media-amazon.com/images/I/71GNqqXuN3L._AC_UF1000,1000_QL80_.jpg",
+        "authorName": "Aldous Huxley",
+        "rating": 4.4,
+        "briefSummary": "A dystopian novel exploring the consequences of a technologically advanced society where human emotions are controlled, and individuality is suppressed.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-009",
+        "bookName": "The Hobbit",
+        "coverPage": "https://m.media-amazon.com/images/I/71jKeGU9nKL._AC_UF1000,1000_QL80_.jpg",
+        "authorName": "J.R.R. Tolkien",
+        "rating": 4.8,
+        "briefSummary": "A young hobbit embarks on an adventure with dwarves to reclaim treasure from a dragon, encountering goblins, elves, and trolls along the way.",
+        "isAvailable": true
+    },
+    {
+        "bookId": "book-010",
+        "bookName": "The Picture of Dorian Gray",
+        "coverPage": "https://m.media-amazon.com/images/I/71fm0Ap7JcL._AC_UF1000,1000_QL80_.jpg",
+        "authorName": "Oscar Wilde",
+        "rating": 4.2,
+        "briefSummary": "A young man remains eternally youthful while his portrait ages, serving as a symbol of his moral decay and self-destructive lifestyle.",
+        "isAvailable": true
+    }
+]
